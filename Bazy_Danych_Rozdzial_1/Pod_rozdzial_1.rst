@@ -37,3 +37,7 @@ Następną bardzo ważną sprawą przy sprzęcie dla baz danych jest adekwatne c
 
 
 Baza danych PostegreSQL intensywnie korzysta z CPU, a zatem wybór procesora z wieloma rdzeniami i wysoką częstotliwości taktowania, będzie znacznie poprawiać wydajność tworzonej bazy danych. Oprócz tego warto zaopatrzyć się w odpowiednią ilość pamięci RAM, PostegreSQL przechowuje często używane dane w pamięci  ze względu na szybszy dostęp do tych danych, co oznacza, że wymaganiem tej bazy danych będzie więcej pamięci RAM.  Przechowywane dane znajdują się na dysku twardym, a więc czym więcej mamy pojemności dysku tym większą ilość danych możemy przechować. PostegreSQL nie jest wybredny co do rodzaju dysku, zarówno sprawdzi się dysk twardy HDD jak i SSD. Jednakże dyski SSD oferują znacznie szybsze czasy odczytu i zapisu w porównaniu do tradycyjnych dysków HDD, a to może przekładać się na szybsze zapytania i mniejsze opóźnienia.  Szybka i niezawodna sieć jest niezbędna dla baz danych PostgreSQL, szczególnie jeśli są one używane w środowiskach rozproszonych. Ważnym aspektem też jest nieprzerwane zasilanie dla utrzymania ciągłości działania bazy danych i zapobiegania utracie danych. PostgreSQL jest zaawansowanym systemem zarządzania relacyjnymi bazami danych, który wymaga odpowiedniego sprzętu do efektywnego działania. Wybór sprzętu powinien być dostosowany do specyficznych potrzeb i obciążenia, jakie przewiduje się dla bazy danych.
+
+
+
+
